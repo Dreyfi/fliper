@@ -24,7 +24,7 @@ const String X_HASURA_ADMIN_SECRET = '';
 Run the app
 
 ```
-flutter run -v
+flutter run -v -d emulator-5554 (your device)
 ```
 
 ## Running the tests
